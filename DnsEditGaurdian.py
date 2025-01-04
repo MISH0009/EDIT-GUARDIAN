@@ -18,7 +18,7 @@ buttons = [
     [
         InlineKeyboardButton(
             text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽",
-            url=f"https://t.me/EditGuardian_Bot?startgroup=true",
+            url=f"https://t.me/EditGuardiansBot?startgroup=true",
         ),
     ],
     [
